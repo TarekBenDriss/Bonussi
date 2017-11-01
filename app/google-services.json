@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "758070109073",
+    "firebase_url": "https://familyapp-427f9.firebaseio.com",
+    "project_id": "familyapp-427f9",
+    "storage_bucket": "familyapp-427f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758070109073:android:69c981cf34f4e231",
+        "android_client_info": {
+          "package_name": "materialtest.example.tarek.codingland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758070109073-1sm6ab6vs9npopbbk5dukrb7l3bcgtr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoWI7Xyg80wSfyHEZ4BxLYugt4b3ELPB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
